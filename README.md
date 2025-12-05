@@ -83,7 +83,7 @@ Web Development · Frontend Engineering · Backend APIs · UI/UX · Scalable Arc
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshkumarjangir&theme=tokyonight" alt="GitHub Streak" />
 </p>
