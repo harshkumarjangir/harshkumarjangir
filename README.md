@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Harsh Kumar Jangir</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer | MERN Stack | Working at Metablock</b>
+  <b>Full-Stack Web Developer | MERN Stack | Working at Betadrix Tech</b>
 </p>
 
 <p align="center">
